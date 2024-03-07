@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VBR7/static/css/main.1e3ed882.css",
+    "main.js": "/VBR7/static/js/main.00e5f8f6.js",
+    "static/js/453.1b6cbde4.chunk.js": "/VBR7/static/js/453.1b6cbde4.chunk.js",
+    "index.html": "/VBR7/index.html",
+    "main.1e3ed882.css.map": "/VBR7/static/css/main.1e3ed882.css.map",
+    "main.00e5f8f6.js.map": "/VBR7/static/js/main.00e5f8f6.js.map",
+    "453.1b6cbde4.chunk.js.map": "/VBR7/static/js/453.1b6cbde4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e3ed882.css",
+    "static/js/main.00e5f8f6.js"
+  ]
+}
